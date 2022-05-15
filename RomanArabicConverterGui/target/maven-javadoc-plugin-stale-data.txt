@@ -1,0 +1,60 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RomanArabicConverter 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'RomanArabicConverter 1.0-SNAPSHOT API'
+controller
+math
+view
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/controller/Controller.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/controller/Main.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/controller/package-info.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/math/Convert.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/math/ConvertException.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/math/package-info.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/view/Gui.java'
+'C:/Users/Marek/Desktop/javap/RomanArabicConverterGui/src/main/java/view/package-info.java'
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\src\main\java = 1652621071783
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\allclasses-index.html = 1652621901533
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\allclasses.html = 1652621901544
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\allpackages-index.html = 1652621901537
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\constant-values.html = 1652621901415
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\deprecated-list.html = 1652621901542
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\element-list = 1652621901372
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\help-doc.html = 1652621901559
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\index-all.html = 1652621901528
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\index.html = 1652621901552
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\member-search-index.js = 1652621901526
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\member-search-index.zip = 1652621901526
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\overview-summary.html = 1652621901555
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\overview-tree.html = 1652621901486
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\package-search-index.js = 1652621901504
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\package-search-index.zip = 1652621901522
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\script.js = 1652621901573
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\search.js = 1652621901587
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\serialized-form.html = 1652621901436
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\stylesheet.css = 1652621901570
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\type-search-index.js = 1652621901523
+C:\Users\Marek\Desktop\javap\RomanArabicConverterGui\target\site\apidocs\type-search-index.zip = 1652621901524
